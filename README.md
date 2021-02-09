@@ -1,5 +1,5 @@
 <h3 align="center">
-    Minimal webgl wrapper library
+    Minimal webgl wrapper tool
 </h3>
 
 <p align="center">
